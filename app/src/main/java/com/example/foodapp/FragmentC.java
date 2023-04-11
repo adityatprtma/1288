@@ -76,7 +76,7 @@ public class FragmentC extends Fragment {
             @Override
             public void onClick(View v)
             {
-               startActivity(new Intent(getContext(), MainActivity.class));
+               startActivity(new Intent(getContext(), Get_StartedActivity.class));
                getActivity().finish();
 
             }
