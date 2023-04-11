@@ -1,4 +1,4 @@
-# FoodApp---Liquid-Swipe-Onboarding-Screen
+# FoodApp---Get-Started-And-Login-Pages
 Food Mobile App In Figma To Android Studio | Get Started And Login Pages - Part 3 
 
 - [Watch Video On My Youtube Channel](https://youtu.be/GRMvN1KPL3o)
